@@ -35,6 +35,12 @@ pub class Main {
 ## Requirements
 Java 26 or higher
 
+## Compiling
+1. Compile `Kopilang.java` using this command:
+```javac KopiLang.java```
+2. Execute the `.class` file:
+```java KopiLang```
+
 ## Documentation and Resources
 - [Documentation](https://kopilang.pages.dev/docs)
 - [Discord](https://discord.gg/Zjd5ucYV3)
