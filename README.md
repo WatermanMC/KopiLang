@@ -28,7 +28,7 @@ pub class Main {
 ## How to Use
 1. **Create a source file:** Write your code in a file with the mandatory `.kpi` extension (e.g., `MyProgram.kpi`).
 2. **Transpile:** Run the KopiLang JAR to convert your code:
-```java -jar KopiLang.jar MyProgram.kpi```
+```java KopiLang MyProgram.kpi```
 3. **Execute:** Run the generated Java `.class` file on the JVM:
 ```java MyProgram```
 
